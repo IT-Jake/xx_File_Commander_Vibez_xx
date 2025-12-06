@@ -1,0 +1,1 @@
+A dual-pane file manager application written in Rust, 100% vibecoded using Google Antigravity to test it out. I assure you that I did not write, read, or debug a single line of code here. But it works pretty well enough. I actually prefer it over Finder in Mac OS. 
